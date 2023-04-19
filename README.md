@@ -1,58 +1,30 @@
-# 👋 Hello, I'm Wilmer Gulcochia Sanchez, 
-## 📫 Soy de Perú, actualmente soy estudiante de Front-End en Alura Latam
-🌱 Soy bachillere en Ciencias Agrarias de la una **Universidad Nacional Agraria de la Selva - Tingo María.**
-
-👀 Soy un apasionado por la tecnología, estoy aprendiendo Front-End en **Alura Latam** del programa **One Next Education**
-
-🎇 Tengo conocimiento en diseño gráfico:
-1. **Adobe After Effects**, 
-1. **Illustrator** y 
-3. **Photoshop**
-
-🎇 Tengo conocimiento en Desarrollo Web Front-End.
-1. **Html**
-2. **CSS**
-3. **JavaScript**
-
-🎇 Domino programas para el desarrollo de mapas y planos
-1. **ArcGIS**
-2. **AutoCAD**
-
-📫 How to reach me:
-- Email: karlwgs1989@gmail.com.
-- Linkedin: https://www.linkedin.com/in/wilmer-gulcochia-sanchez/
-- Twitter: https://twitter.com/misterio1989w
-- Instagram: https://www.instagram.com/wigusa/
+# 💫 About Me:
+🌱 I am a bachelor in Agricultural Sciences<br>👀 I am passionate about technology<br>🌱 I am learning Front-End at Alura Latam from the One Next Education program<br>🌱  I am doing the JavaScript Fullstack Bootcamp with Guillermo Rodaz<br>🌱 I have knowledge in graphic design, web development and the preparation of maps and plans<br>🧨Ask me about<br>🚨Fun fact
 
 
-# Esto son los 5 comandos mas usados
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/wilmergulcochia) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s3J65fQs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wilmergulcochia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@wigusa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wilmergulcochia) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@karlwgs1989) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thesaint.22) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/theredhawk22) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@misterio1989w) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCg69vFMV4tDVZ4GSXHFQQYA) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Mysterio2202) 
 
-| Comando | Descripción             |
-|---------|-------------------------|
-| cd      | cambia entre directorios |
-| ls      | lista el contenido de un directorio |
-| git     | Software de control de versiones |
-| sudo    | Sirve para elevar privilegios temporalmente |
-| mkdir   | Crea un directorio o subdirectorio |
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mysterio-wil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mysterio-wil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mysterio-wil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Alias mas usados
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mysterio-wil&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-```
-md='mkdir -p'
-mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
-npmd='npm run dev'
-npms='npm start'
-ohmyzsh='cd ~/.oh-my-zsh'
-rd=rmdir
-rm=trash
-sl=ls
-which-command=whence
-zshconfig='nano ~/.zshrc'
-```
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@misterio1989w)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-> http://localhost:8080/nobody-redhawk/index.html npx @11ty/eleventy --serve
-> 
-> http://localhost:8080/README/index.html npx @11ty/eleventy --serve
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mysterio-wil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-> https://el-mundo-del-markdown-nobody-redhawk.vercel.app/nobody-redhawk
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=mysterio-wil&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
