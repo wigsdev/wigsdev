@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am a bachelor in Agricultural Sciences<br>👀 I am passionate about technology<br>🌱 I am learning Front-End at Alura Latam from the One Next Education program<br>🌱  I am doing the JavaScript Fullstack Bootcamp with Guillermo Rodaz<br>🌱 I have knowledge in graphic design, web development and the preparation of maps and plans<br>🧨Ask me about<br>🚨Fun fact
+🌱 I am a bachelor in Agricultural Sciences<br>👀 I am passionate about technology<br>🌱 I am a Frontend Developer for Alura Latam of the One Next Education program<br>🌱  I am doing the JavaScript Fullstack Bootcamp with Guillermo Rodaz<br>🌱 I have knowledge in graphic design, web development and the preparation of maps and plans<br>🧨Ask me about<br>🚨Fun fact
 
 
 ## 🌐 Socials:
