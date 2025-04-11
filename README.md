@@ -1,6 +1,12 @@
+# ![](https://raw.githubusercontent.com/mysterio-wil/mysterio-wil/main/logo.png) Hey, my name is Wilmer Gulcochía 👋
+### Data Analyst, Full Stack Developer
 # 💫 About Me:
-🌱 I am a bachelor in Agricultural Sciences<br>👀 I am passionate about technology<br>🌱 I am a Frontend Developer for Alura Latam of the One Next Education program<br>🌱  I am doing the JavaScript Fullstack Bootcamp with Guillermo Rodaz<br>🌱 I have knowledge in graphic design, web development and the preparation of maps and plans<br>🧨Ask me about<br>🚨Fun fact
-
+🌱 I am a bachelor in Agricultural Sciences<br>
+🎯 I am passionate about technology<br>
+🎯 I am a Frontend Developer for Alura Latam of the One Next Education program<br>
+🎯 I am doing the JavaScript Fullstack Bootcamp with Guillermo Rodaz<br>
+🛠 I'm taking the [FreeCodeCamp](https://www.freecodecamp.org/learn/full-stack-developer/) Full Stack Developer certification.<br>
+🎯 I have knowledge in graphic design, web development and the preparation of maps and plans<br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/wilmergulcochia) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s3J65fQs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wilmergulcochia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wigusa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wilmergulcochia) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@karlwgs1989) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thesaint.22) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/theredhawk22) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@misterio1989w) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCg69vFMV4tDVZ4GSXHFQQYA) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mysterio2202) 
@@ -15,15 +21,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mysterio-wil&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@misterio1989w)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mysterio-wil&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mysterio-wil&icon=0&color=0)](https://visitcount.itsvg.in)
 
