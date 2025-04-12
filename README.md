@@ -114,6 +114,6 @@
 If you have an exciting project in mind or would like to collaborate, feel free to reach out to me via [LinkedIn](https://linkedin.com/in/wilmergulcochia) or [X](https://x.com/misterio1989w). I would love to help you bring your ideas to life!
 
 ---
-🌍 Available in: [Spanish](https://github.com/mysterio-wil/mysterio-wil/blob/main/README_es.md) | [French](https://github.com/mysterio-wil/mysterio-wil/blob/main/README_fr.md)
+🌍 Available in: [Español](https://github.com/mysterio-wil/mysterio-wil/blob/main/README_es.md) | [French](https://github.com/mysterio-wil/mysterio-wil/blob/main/README_fr.md) |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
