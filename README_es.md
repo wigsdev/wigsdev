@@ -117,4 +117,4 @@ Si tienes un proyecto interesante o deseas trabajar juntos, contáctame por [Lin
 
 ---
 
-🌍 Disponible en: [English](https://github.com/mysterio-wil/mysterio-wil/blob/main/README.md)
+🌍 Disponible en: [English](https://github.com/mysterio-wil/mysterio-wil/blob/main/README.md) | [French](https://github.com/mysterio-wil/mysterio-wil/blob/main/README_fr.md) |
