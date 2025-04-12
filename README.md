@@ -4,8 +4,9 @@
 ## 💫 About Me:
 🌱 I have a Bachelor's degree in Agricultural Sciences  
 🎯 I am passionate about technology  
-🎯 I am a Frontend Developer for Alura Latam as part of the One Next Education program  
-🎯 I am currently attending the JavaScript Fullstack Bootcamp with Guillermo Rodaz  
+⚙ I have an official [Guayerd](https://www.guayerd.com/es/catalogo/ibm-data-analytics/) certification in collaboration with [IBM SkillsBuild](https://skillsbuild.org/es) in the Program: Data Analytics Fundamentals.  
+🎯 I am a Frontend Developer for Alura Latam as part of the [One Next Education](https://www.oracle.com/pe/education/oracle-next-education/) program  
+🎯 I am currently attending the [JavaScript Fullstack Bootcamp](https://undefined.academy/) with [Guillermo Rodaz](https://guillermorodas.com/)  
 🛠 I am working towards completing the [FreeCodeCamp](https://www.freecodecamp.org/learn/full-stack-developer/) Full Stack Developer certification  
 🎯 I also have experience in graphic design, web development, and creating maps and plans  
 🎯 Feel free to check out my work and reach out if you'd like to collaborate!
@@ -35,8 +36,7 @@
 ## 🌐 Socials
 
 **💼 Professional:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilmergulcochia) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mysterio-wil) 
+
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/misterio1989w) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karlwgs1989) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mysterio2202) 
