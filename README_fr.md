@@ -122,6 +122,6 @@ Ces statistiques montrent mes contributions, mes séries, et les principaux lang
 Si vous avez un projet passionnant en tête ou si vous souhaitez collaborer, n'hésitez pas à me contacter via [LinkedIn](https://linkedin.com/in/wilmergulcochia) ou [X](https://x.com/misterio1989w). J'adorerais vous aider à concrétiser vos idées !
 
 ---
-🌍 Disponible en: [Español](https://github.com/mysterio-wil/mysterio-wil/blob/main/README_es.md) [English](https://github.com/mysterio-wil/mysterio-wil/blob/main/README.md)
+🌍 Disponible en: [Español](https://github.com/mysterio-wil/mysterio-wil/blob/main/README_es.md) | [English](https://github.com/mysterio-wil/mysterio-wil/blob/main/README.md) |
 
 <!-- Fièrement créé avec GPRM ( https://gprm.itsvg.in ) -->
