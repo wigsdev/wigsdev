@@ -103,7 +103,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mysterio-wil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mysterio-wil&theme=dark&locale=es)](https://git.io/streak-stats)  
+![](https://nirzak-streak-stats.vercel.app?user=mysterio-wil&theme=dark&locale=es)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mysterio-wil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies  
