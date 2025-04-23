@@ -4,7 +4,7 @@
 ## 💫 About Me:
 🌱 I have a Bachelor's degree in Agricultural Sciences  
 🎯 I am passionate about technology  
-⚙ I have an official [Guayerd](https://www.guayerd.com/es/catalogo/ibm-data-analytics/) certification in collaboration with [IBM SkillsBuild](https://skillsbuild.org/es) in the Program: Data Analytics Fundamentals.  
+🧨 I have an official [Guayerd](https://www.guayerd.com/es/catalogo/ibm-data-analytics/) certification in collaboration with [IBM SkillsBuild](https://skillsbuild.org/es) in the Program: Data Analytics Fundamentals.  
 🎯 I am a Frontend Developer for Alura Latam as part of the [One Next Education](https://www.oracle.com/pe/education/oracle-next-education/) program  
 🎯 I am currently attending the [JavaScript Fullstack Bootcamp](https://undefined.academy/) with [Guillermo Rodaz](https://guillermorodas.com/)  
 🛠 I am working towards completing the [FreeCodeCamp](https://www.freecodecamp.org/learn/full-stack-developer/) Full Stack Developer certification  
