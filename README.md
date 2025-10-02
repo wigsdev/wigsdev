@@ -1,4 +1,4 @@
-# ![](https://raw.githubusercontent.com/mysterio-wil/mysterio-wil/main/logo.png) Hey, my name is Wilmer Gulcochía 👋
+# ![](https://raw.githubusercontent.com/wigsdev/wigsdev/main/logo.png) Hey, my name is Wilmer Gulcochía 👋
 ### Data Analyst, Full Stack Developer
 
 ## 💫 About Me:
@@ -31,14 +31,14 @@
 - Created maps, plans, and data visualizations for agricultural and environmental purposes.
 
 ## 🚀 Projects
-- **[My Portfolio](https://mysterio-wil.github.io/Challenge-ONE-Portafolio-Latam/)**: A collection of my web development and data analysis projects.
+- **[My Portfolio](https://wigsdev.github.io/Challenge-ONE-Portafolio-Latam/)**: A collection of my web development and data analysis projects.
 
 ## 🌐 Socials
 
 **💼 Professional:**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilmergulcochia) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mysterio-wil) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wigsdev) 
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/misterio1989w) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karlwgs1989) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mysterio2202) 
@@ -102,20 +102,20 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mysterio-wil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app?user=mysterio-wil&theme=dark&locale=es)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mysterio-wil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=wigsdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app?user=wigsdev&theme=dark&locale=es)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wigsdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=mysterio-wil&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=wigsdev&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=mysterio-wil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=wigsdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🤝 Let's Collaborate  
 If you have an exciting project in mind or would like to collaborate, feel free to reach out to me via [LinkedIn](https://linkedin.com/in/wilmergulcochia) or [X](https://x.com/misterio1989w). I would love to help you bring your ideas to life!
 
 ---
-🌍 Available in: [Español](https://github.com/mysterio-wil/mysterio-wil/blob/main/README_es.md) | [French](https://github.com/mysterio-wil/mysterio-wil/blob/main/README_fr.md) |
+🌍 Available in: [Español](https://github.com/wigsdev/wigsdev/blob/main/README_es.md) | [French](https://github.com/wigsdev/wigsdev/blob/main/README_fr.md) |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
